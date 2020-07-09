@@ -1,0 +1,20 @@
+{
+  "name": "fake-users-api",
+  "version": "1.0.0",
+  "description": "API finta per il download degli utenti di un'ipotetica applicazione",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fake",
+    "api",
+    "users"
+  ],
+  "author": "Luca Nardi <l.nardi@pluservice.net>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}

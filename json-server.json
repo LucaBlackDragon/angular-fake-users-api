@@ -1,0 +1,6 @@
+{
+  "port": 3000,
+  "read-only": true,
+  "delay": 30,
+  "watch": true
+}
