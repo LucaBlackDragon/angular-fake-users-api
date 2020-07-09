@@ -1,6 +1,8 @@
 # Users API
 
-API REST che simula un database di 5000 utenti.
+API REST che simula un database di 5000 utenti utilizzata nell'applicazione di esempio per il corso tenuto in Pluservice a luglio 2020:
+
+https://github.com/LucaBlackDragon/angular-fake-users-dashboard
 
 Basata su [json-server].
 
